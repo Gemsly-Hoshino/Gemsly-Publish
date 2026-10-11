@@ -1,5 +1,5 @@
 ---
-title: 隐私政策
+title: 隐私政策 (Privacy Policy)
 ---
 
 # 隐私政策 (Privacy Policy)
